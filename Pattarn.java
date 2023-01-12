@@ -164,7 +164,7 @@ public class pattarn5 {
 
 6).Pattarn no 6
 
-		*
+            *
 	   **
 	  ***
 	 ****
@@ -201,7 +201,7 @@ public class pattarn6 {
 	 ****
 	  ***
 	   **
-		*
+	    *
 		
 		package Pattarn;
 
@@ -229,7 +229,7 @@ public class pattarn7 {
 
 8).Pattarn no 8
 
-		*
+	    *
 	   **
 	  ***
 	 ****
@@ -237,7 +237,7 @@ public class pattarn7 {
 	 ****
 	  ***
 	   **
-		*
+	    *
 		
 package Pattarn;
 
@@ -266,7 +266,7 @@ public class pattarn8 {
 
 9).Pattarn no 9
 
-		* 
+	    * 
 	   * * 
 	  * * * 
 	 * * * * 
@@ -297,7 +297,8 @@ public class pattarn9 {
 }
 
 10).Pattarn no 10
-		*    
+	
+	    *    
 	   ***   
 	  *****  
 	 ******* 
@@ -335,7 +336,7 @@ public class pattarn10 {
 	 * * * * 
 	  * * * 
 	   * * 
-		* 
+	    * 
      
 package Pattarn;
 
@@ -369,7 +370,7 @@ public class pattarn11 {
 	 ******* 
 	  *****  
 	   ***   
-		*  
+	    *  
 
 package Pattarn;
 
@@ -403,7 +404,7 @@ public class pattarn12 {
 	 * * * * 
 	  * * * 
 	   * * 
-		* 
+	    * 
 
 package Pattarn;
 
@@ -435,7 +436,7 @@ public class pattarn13 {
 	 ****
 	  ***
 	   **
-		*
+	    *
 	   **
 	  ***
 	 ****
@@ -471,11 +472,11 @@ public class pattarn14 {
 	 ****    
 	  ***    
 	   **    
-		*    
-		**   
-		***  
-		**** 
-		*****
+	    *    
+	   **   
+	  ***  
+	 **** 
+	*****
 		
 package Pattarn;
 
@@ -508,7 +509,7 @@ public class pattarn15 {
 	 ******* 
 	  *****  
 	   ***   
-		*    
+	    *    
 	   ***   
 	  *****  
 	 ******* 
@@ -545,7 +546,7 @@ public class pattarn16 {
 	 * * * * 
 	  * * * 
 	   * * 
-		* 
+	    * 
 	   * * 
 	  * * * 
 	 * * * * 
@@ -577,7 +578,7 @@ public class pattarn17 {
 
 18).Pattarn no 18
 
-		* 
+	    * 
 	   * * 
 	  * * * 
 	 * * * * 
@@ -585,7 +586,7 @@ public class pattarn17 {
 	 * * * * 
 	  * * * 
 	   * * 
-		* 
+	    * 
 		
 package Pattarn;
 
@@ -615,7 +616,7 @@ public class pattarn18 {
 		
 19).Pattarn no 19
 
-		*    
+	    *    
 	   ***   
 	  *****  
 	 ******* 
@@ -623,7 +624,7 @@ public class pattarn18 {
 	 ******* 
 	  *****  
 	   ***   
-		*   
+	    *   
 
 package Pattarn;
 
@@ -687,7 +688,7 @@ public class pattarn20 {
 
 21).Pattarn no 21
 
-		*****
+	    *****
 	   ***** 
 	  *****  
 	 *****   
@@ -723,7 +724,7 @@ public class pattarn21 {
 	 *****   
 	  *****  
 	   ***** 
-		*****
+	    *****
 
 package Pattarn;
 
@@ -756,7 +757,7 @@ public class pattarn22 {
 	 *****   
 	  *****  
 	   ***** 
-		*****
+	    *****
 	   ***** 
 	  *****  
 	 *****   
@@ -797,7 +798,7 @@ public class pattarn23 {
 	 *****   
 	  *****  
 	   ***** 
-		*****
+	    *****
 		
 package Pattarn;
 
@@ -1060,7 +1061,7 @@ public class pattarn31 {
 	 *  *
 	  * *
 	   **
-		*
+	    *
 
 package Pattarn;
 
@@ -1087,7 +1088,7 @@ public class pattarn32 {
 
 33).Pattarn no 33
 
-		*    
+	    *    
 	   * *   
 	  *   *  
 	 *     * 
@@ -1120,7 +1121,7 @@ for (int i = 0; i < irange; i++) {
 	 *     * 
 	  *   *  
 	   * *   
-		*    
+	    *    
 	
 package Pattarn;
 
@@ -1149,7 +1150,7 @@ public class pattarn34 {
 	
 35).Pattarn no 35
 
-		*    
+	    *    
 	   * *   
 	  *   *  
 	 *     * 
@@ -1157,7 +1158,7 @@ public class pattarn34 {
 	 *     * 
 	  *   *  
 	   * *   
-		*    
+	    *    
 		
 package Pattarn;
 
@@ -1221,7 +1222,7 @@ public class pattarn36 {
 	
 37).Pattarn no 37
 
-		*
+	    *
 	   **
 	  * *
 	 *  *
@@ -1229,7 +1230,7 @@ public class pattarn36 {
 	 *  *
 	  * *
 	   **
-		*
+	    *
 
 package Pattarn;
 
@@ -1255,7 +1256,7 @@ public class pattarn37 {
 
 38).Pattarn no 38
 
-		*****
+	    *****
 	   *   * 
 	  *   *  
 	 *   *   
@@ -1290,7 +1291,7 @@ public class pattarn39 {
 	 *   *   
 	  *   *  
 	   *   * 
-		*****	
+	    *****	
 
 package Pattarn;
 
@@ -1390,11 +1391,11 @@ public class pattarn41 {
 	 ***************  
 	  *************   
 	   ***********    
-		*********     
-		 *******      
-		  *****       
-		   ***        
-			*               
+	    *********     
+	     *******      
+	      *****       
+	       ***        
+		*               
 package Pattarn;
 
 public class pattarn42 {
@@ -2033,8 +2034,8 @@ public class pattarn60 {
 	*    
 	*    
 	*****
-		*
-		*
+	    *
+	    *
 	*****
 
 package Pattarn;
@@ -2134,9 +2135,9 @@ public class pattarn63 {
 	 *         * 
 	  *       *  
 	   *     *   
-		*   *    
-		 * *     
-		  *      
+	    *   *    
+	     * *     
+	      *      
 
 package Pattarn;
 
@@ -2262,8 +2263,8 @@ public class pattarn67 {
 68).Pattarn no 68
 
 	*******
-		 * 
-		*  
+	     * 
+	    *  
 	   *   
 	  *    
 	 *     
